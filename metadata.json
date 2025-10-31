@@ -1,0 +1,7 @@
+{
+  "name": "StageFlow: AI-Powered Show & Rehearsal Planner",
+  "description": "StageFlow is a multi-tenant web app for planning shows, rehearsals, and teams, featuring an AI assistant for scheduling, conflict detection, and communication. The application is designed for artists, managers, and crew in the event industry.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
